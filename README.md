@@ -1,1 +1,1 @@
-# -2022-Computer-Programming-I-
+# Computer Programming I
